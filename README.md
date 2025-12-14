@@ -1,11 +1,7 @@
-# VINCENT VIDOT
 
-**Frontend Developer**  
-📧 vincent.vidot3@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/vincentvdt) • [Portfolio](https://vincentvdt.fr) • [Malt](https://www.malt.fr/profile/vincentvdt)
-
-_I'm currently taking a few days off, not super active right now,  
-but feel free to reach out by email, I'll still get back to you!_
+_I’m moving most of my personal repos elsewhere.  
+This GitHub will stay up and I’ll keep pushing a few projects here for showcasing and collaboration, since it’s convenient for some people.  
+If you want to reach me, email is best and I’ll reply._
 
 ---
 
@@ -13,37 +9,6 @@ I build interactive web interfaces.
 I like when things are fast, accessible, and fun to use.  
 Code comes first. Design comes when it needs to.  
 Still learning. Still messing around.
-
----
-
-## STACK
-
-- Next.js
-- React / TypeScript  
-- TailwindCSS  
-- Zustand  
-- Framer Motion / GSAP  
-- Three.js (Three Journey 👌)
-- i18n / SEO / Accessibility  
-- Express / REST APIs  
-- Stripe API  
-- MongoDB / MySQL (basic use, enough to ship)  
-
-## CURRENT FOCUS
-
-- Performant interfaces that feel alive  
-- Story-driven UI  
-- Clean, flexible architecture  
-- Doing more with less
-
----
-
-## PERSONAL
-
-I lean into a slower rhythm, focused mornings, late-night deep work.  
-Curious by nature, always exploring new ideas, tools, or paths.  
-I balance structure with spontaneity.  
-Tech is my craft, but I like when it feels like an adventure.
 
 ---
 
